@@ -17,7 +17,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://baitun.github.io/cv",
+  "homepage": "https://savinyurii.ru/cv/",
   "browserslist": [
     ">0.2%",
     "not dead",
