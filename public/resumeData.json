@@ -14,42 +14,22 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://savinyurii.ru",
+    "resumedownload":"https://moikrug.ru/savinyurii",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/baitun",
         "className":"fa fa-github"
       },
       {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/5700024/baitun",
+        "className":"fa fa-stack-overflow"
+      },
+      {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"https://join.skype.com/invite/mrNu4It8WCZo",
         "className":"fa fa-skype"
       }
     ]
