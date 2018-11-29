@@ -28,6 +28,11 @@
         "className":"fa fa-stack-overflow"
       },
       {
+        "name":"telegram",
+        "url":"https://tele.click/savinyurii",
+        "className":"fa fa-telegram"
+      },
+      {
         "name":"skype",
         "url":"https://join.skype.com/invite/mrNu4It8WCZo",
         "className":"fa fa-skype"
