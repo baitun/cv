@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-awesome-resume": "^0.1.0",
+    "react-dom": "^16.6.3",
+    "react-scripts": "^2.1.1",
+    "semantic-ui-css": "^2.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "https://savinyurii.ru/",
+  "license": "MIT",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
