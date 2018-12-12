@@ -6,7 +6,7 @@
     "email": "savinyurii@gmail.com",
     "phone": "",
     "website": "",
-    "summary": "I'm professional web developer. I can do both Frontend (ReactJS, Redux) and Backand (NodeJS, MySQL, PostgreSQL, Redis).",
+    "summary": "I am a professional web developer with 3+ years of experience. I have experience with front-end (ES6, TypeScript, React.JS) and back-end (Node.JS, MySQL, PostgreSQL, Redis), but I prefer to do front-end.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,21 +24,39 @@
         "network": "stackoverflow",
         "username": "baitun",
         "url": "https://stackoverflow.com/story/baitun"
+      },
+      {
+        "network": "linkedin",
+        "username": "savinyurii",
+        "url": "https://linkedin.com/in/savinyurii"
       }
     ]
   },
   "work": [
     {
       "company": "Tele2 Russia",
-      "position": "Fullstack Developer",
+      "position": "Fullstack Developer (project work)",
       "website": "http://en.tele2.ru",
-      "startDate": "2018-09-01",
+      "startDate": "2016-09-01",
       "endDate": "",
-      "summary": "",
+      "summary": "Development of a web application for internal use in the contact centers of the company",
       "highlights": [
-        "",
-        "",
-        ""
+        "Main stack: PHP, JS, jQuery, MySQL",
+        "Developed and implemented a gamification system by which sales in the contact center increased by 20%",
+        "Designed and developed web GUI for reporting, using React.js and Node.js"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2014-10-01",
+      "endDate": "2016-01-15",
+      "summary": "Develp landing-pages for local companies",
+      "highlights": [
+        "Responsive, mobile-first development",
+        "Designed and developed front-end for 10+ websites, using HTML, CSS, jQuery, and MODx",
+        "Developed android mobile app 'Schedule for university students'"
       ]
     }
   ],
@@ -47,10 +65,10 @@
     {
       "institution": "Baikal State University",
       "area": "Computer Science",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science in Computer Science",
       "startDate": "2013-09-01",
       "endDate": "2017-06-30",
-      "gpa": "",
+      "gpa": "4.7",
       "courses": []
     }
   ],
@@ -59,34 +77,43 @@
   "skills": [
     {
       "name": "Frontend",
-      "level": "Middle",
+      "level": "95",
       "keywords": [
         "JavaScript (ES6)",
         "TypeScript",
         "React.js",
         "HTML5",
-        "CSS3",
-        ""
+        "CSS3"
       ]
     },
     {
       "name": "DataBases",
-      "level": "",
-      "keywords": [
-        "MySQL",
-        "PostgreSQL",
-        "Redis"
-      ]
+      "level": "40",
+      "keywords": ["MySQL", "PostgreSQL", "Redis"]
+    },
+    {
+      "name": "Backend",
+      "level": "60",
+      "keywords": ["Node.JS"]
+    },
+    {
+      "name": "Tools",
+      "level": "75",
+      "keywords": ["webpack", "git", "git-flow", "npm"]
     }
   ],
   "languages": [
     {
       "language": "Russian",
-      "fluency": "Native"
+      "fluency": "Native",
+      "name": "Russian",
+      "level": "Native"
     },
     {
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "Intermediate",
+      "name": "English",
+      "level": "Intermediate"
     }
   ],
   "interests": [],
