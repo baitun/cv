@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^16.6.3",
     "react-awesome-resume": "^0.1.0",
-    "react-dom": "^16.6.3",
+    "react-dom": "^15.0.0",
     "react-scripts": "^2.1.1",
+    "react": "^15.0.0",
     "semantic-ui-css": "^2.4.1"
   },
   "scripts": {
