@@ -12,7 +12,9 @@
     "test": "react-scripts test --env=jsdom",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "publish": "resume publish --theme kendall --resume src/resume.json",
+    "serve": "resume serve --theme kendall --resume src/resume.json --dir dist"
   },
   "homepage": "https://savinyurii.ru/",
   "license": "MIT",
