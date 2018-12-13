@@ -14,7 +14,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "publish": "resume publish --theme kendall --resume src/resume.json",
-    "serve": "resume serve --theme kendall --resume src/resume.json --dir dist"
+    "serve": "resume serve --theme kendall --resume src/resume.json --dir public/resume"
   },
   "homepage": "https://savinyurii.ru/",
   "license": "MIT",
