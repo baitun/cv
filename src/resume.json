@@ -73,7 +73,15 @@
     }
   ],
   "awards": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
   "skills": [
     {
       "name": "Frontend",
