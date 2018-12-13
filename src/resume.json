@@ -111,7 +111,7 @@
     {
       "name": "Tools",
       "level": "75",
-      "keywords": ["webpack", "git", "git-flow", "npm"]
+      "keywords": ["webpack", "git", "git-flow", "npm", "bash"]
     }
   ],
   "languages": [
