@@ -1,9 +1,9 @@
 {
   "dependencies": {
+    "react": "^15.0.0",
     "react-awesome-resume": "^0.1.0",
     "react-dom": "^15.0.0",
     "react-scripts": "^2.1.1",
-    "react": "^15.0.0",
     "semantic-ui-css": "^2.4.1"
   },
   "scripts": {
@@ -23,5 +23,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
