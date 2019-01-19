@@ -53,7 +53,6 @@
     {
       "company": "Freelance",
       "position": "Web Developer",
-      "website": "",
       "startDate": "2014-10-01",
       "endDate": "2016-02-01",
       "summary": "Helped startups and companies build fast and responsive websites and apps.",
@@ -128,6 +127,16 @@
       "level": "Intermediate"
     }
   ],
-  "interests": ["Coding", "Speedcubing", "Bicycle", "Guitar"],
+  "interests": [
+    {
+      "name": "Coding"
+    },
+    {
+      "name": "Investments"
+    },
+    {
+      "name": "Speedcubing"
+    }
+  ],
   "references": []
 }
