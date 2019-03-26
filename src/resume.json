@@ -34,10 +34,21 @@
   },
   "work": [
     {
+      "company": "Sberbank",
+      "position": "Frontend Engineer",
+      "website": "https://www.sberbank.com/",
+      "startDate": "2019-02-11",
+      "summary": "Develop web application",
+      "highlights": [
+        "Main stack: React.js, Redux, TypeScript"
+      ]
+    },
+    {
       "company": "Tele2 Russia",
-      "position": "Fullstack Developer",
+      "position": "Frontend Developer",
       "website": "http://en.tele2.ru",
       "startDate": "2016-09-01",
+      "endDate": "2019-02-01",
       "summary": "Working on making a system for monitoring KPI's of Contact Centers in web app",
       "highlights": [
         "Main stack: React.js, Node.js, MySQL",
