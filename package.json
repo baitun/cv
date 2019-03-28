@@ -17,7 +17,7 @@
     "publish": "resume publish --theme kendall --resume src/resume.json",
     "serve": "resume serve --theme kendall --resume src/resume.json --dir public/resume"
   },
-  "homepage": "https://savinyurii.ru/",
+  "homepage": "https://savin.dev/",
   "license": "MIT",
   "browserslist": [
     ">0.2%",
