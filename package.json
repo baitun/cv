@@ -4,7 +4,7 @@
     "react": "15.6.2",
     "react-awesome-resume": "0.1.0",
     "react-dom": "15.6.2",
-    "react-scripts": "2.1.1",
+    "react-scripts": "2.1.8",
     "semantic-ui-css": "2.4.1"
   },
   "scripts": {
