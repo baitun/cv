@@ -6,7 +6,7 @@
     "email": "yury@savin.dev",
     "phone": "+7 (904) 138 16 04",
     "website": "https://savin.dev",
-    "summary": "I am a professional web developer with 3+ years of experience. I have experience with front-end (ES6, TypeScript, React.JS) and back-end (Node.JS, MySQL, PostgreSQL, Redis), but I prefer to do front-end. I’m a software engineer looking for my next opportunity to continue with React/Redux/TypeScript. I’m looking for a company that can help me grow, while exploring more front end work. ",
+    "summary": "I am a professional web developer with 4+ years of experience. I have experience with front-end (ES6, TypeScript, React.JS) and back-end (Node.JS, MySQL, PostgreSQL, Redis), but I prefer to do front-end. I’m a software engineer looking for my next opportunity to continue with React/Redux/TypeScript. I’m looking for a company that can help me grow, while exploring more front end work. ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -39,9 +39,7 @@
       "website": "https://www.sberbank.com/",
       "startDate": "2019-02-11",
       "summary": "Develop web application",
-      "highlights": [
-        "Main stack: React.js, Redux, TypeScript"
-      ]
+      "highlights": ["Main stack: React.js, Redux, TypeScript"]
     },
     {
       "company": "Tele2 Russia",
@@ -78,6 +76,15 @@
       "startDate": "2013-09-01",
       "endDate": "2017-06-30",
       "gpa": "4.8",
+      "courses": []
+    },
+    {
+      "institution": "Baikal State University",
+      "area": "Management: The strategic management of the organization",
+      "studyType": "Master of Management",
+      "startDate": "2017-09-01",
+      "endDate": "2019-06-30",
+      "gpa": "4.85",
       "courses": []
     }
   ],
@@ -131,17 +138,6 @@
       "fluency": "Intermediate",
       "name": "English",
       "level": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Coding"
-    },
-    {
-      "name": "Investments"
-    },
-    {
-      "name": "Speedcubing"
     }
   ],
   "references": []
