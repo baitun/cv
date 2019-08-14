@@ -30,8 +30,11 @@
       "position": "Frontend Engineer",
       "website": "https://www.sberbank.com/",
       "startDate": "2019-02-11",
-      "summary": "Develop web application",
-      "highlights": ["Main stack: React.js, Redux, TypeScript"]
+      "summary": "Developed the UI for the task flow management system for the bank back office",
+      "highlights": [
+        "Main stack: React.js, Redux, TypeScript",
+        "Used tools: Jira, BitBucket, Confluence"
+      ]
     },
     {
       "company": "Tele2 Russia",
@@ -66,18 +69,14 @@
       "area": "Computer Science",
       "studyType": "Bachelor of Science in Computer Science",
       "startDate": "2013-09-01",
-      "endDate": "2017-06-30",
-      "gpa": "4.8",
-      "courses": []
+      "endDate": "2017-06-30"
     },
     {
       "institution": "Baikal State University",
       "area": "Strategic management of the organization",
       "studyType": "Master of Management",
       "startDate": "2017-09-01",
-      "endDate": "2019-06-30",
-      "gpa": "4.85",
-      "courses": []
+      "endDate": "2019-06-30"
     }
   ],
   "awards": [],
