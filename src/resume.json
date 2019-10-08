@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Iurii Savin",
+    "name": "Yury Savin",
     "label": "Frontend Developer",
     "picture": "https://avatars1.githubusercontent.com/u/5827605",
-    "email": "iurii@savin.dev",
+    "email": "yury@savin.dev",
     "summary": "I am web developer with 4+ years of experience. I have experience with front-end (ES6, TypeScript, React.JS) and back-end (Node.JS, MySQL, PostgreSQL, Redis), but I prefer to do front-end. I’m a software engineer looking for my next opportunity to continue with React/Redux/TypeScript. I’m looking for a company that can help me grow, while exploring more front end work. I think that the code says more words, so it's better to look at my projects on https://github.com/baitun",
     "profiles": [
       {
@@ -26,7 +26,7 @@
   "work": [
     {
       "company": "Sberbank",
-      "position": "Frontend Engineer",
+      "position": "Chief Development Engineer",
       "website": "https://sberbank.com/",
       "startDate": "2019-02-11",
       "summary": "Developed the UI for the task flow management system for the bank back office",
