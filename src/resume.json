@@ -29,6 +29,7 @@
       "position": "Chief Development Engineer",
       "website": "https://sberbank.com/",
       "startDate": "2019-02-11",
+      "endDate": "2019-10-01",
       "summary": "Developed the UI for the task flow management system for the bank back office",
       "highlights": [
         "Main stack: React.js, Redux, TypeScript",
