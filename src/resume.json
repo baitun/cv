@@ -1,9 +1,10 @@
 {
   "basics": {
-    "name": "Yury Savin",
+    "name": "Iurii Savin",
     "label": "Frontend Developer",
     "picture": "https://avatars1.githubusercontent.com/u/5827605",
-    "email": "yury@savin.dev",
+    "email": "iurii@savin.dev",
+    "phone": "+31625290660",
     "summary": "I am web developer with 4+ years of experience. I have experience with front-end (ES6, TypeScript, React.JS) and back-end (Node.JS, MySQL, PostgreSQL, Redis), but I prefer to do front-end. I’m a software engineer looking for my next opportunity to continue with React/Redux/TypeScript. I’m looking for a company that can help me grow, while exploring more front end work. I think that the code says more words, so it's better to look at my projects on https://github.com/baitun",
     "profiles": [
       {
@@ -30,10 +31,12 @@
       "website": "https://sberbank.com/",
       "startDate": "2019-02-11",
       "endDate": "2019-10-01",
-      "summary": "Developed the UI for the task flow management system for the bank back office",
+      "summary": "At the largest Russian bank, I was responsible for developing the front-end for the internal task management system.",
       "highlights": [
         "Main stack: React.js, Redux, TypeScript",
-        "Used tools: Jira, BitBucket, Confluence"
+        "Used tools: Jira, BitBucket, Confluence",
+        "Developed the UI for the task flow management system for the bank back office from scratch",
+        "Contributed to our internal React.js UI component library"
       ]
     },
     {
@@ -87,13 +90,18 @@
         "JavaScript (ES6)",
         "TypeScript",
         "React.js",
+        "Redux",
         "HTML5",
         "CSS3"
       ]
     },
     {
       "name": "Backend",
-      "keywords": ["Node.JS", "Express", "Nginx"]
+      "keywords": ["Node.JS", "Express", "Nginx", "PHP"]
+    },
+    {
+      "name": "Unit Testing",
+      "keywords": ["Jest", "React Testing Library"]
     },
     {
       "name": "DataBases",
