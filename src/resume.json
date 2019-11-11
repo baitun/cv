@@ -47,9 +47,10 @@
       "endDate": "2019-02-01",
       "summary": "Working on making a system for monitoring KPI's of Contact Centers in web app",
       "highlights": [
-        "Main stack: React.js, Node.js, MySQL",
         "Developed and implemented a gamification system by which sales in the contact center increased by 20%",
-        "Designed and developed web GUI for reporting, using React.js and Node.js"
+        "Awarded the Idea of the Year award for the creation of a sales control interface",
+        "Designed and developed web GUI for reporting, using React.js and Node.js",
+        "Main stack: React.js, Node.js, MySQL"
       ]
     },
     {
