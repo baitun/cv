@@ -3,7 +3,8 @@
   "scripts": {
     "deploy": "gh-pages -d public",
     "publish": "resume publish --theme kendall --resume src/resume.json",
-    "serve": "resume serve --theme kendall --resume src/resume.json --dir public/resume"
+    "serve": "resume serve --theme kendall --resume src/resume.json --dir public/resume",
+    "md": "node generate_readme.js"
   },
   "homepage": "https://savin.dev/",
   "license": "MIT",
