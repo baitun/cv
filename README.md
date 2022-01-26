@@ -8,7 +8,7 @@ I am web developer with 4+ years of experience. I have experience with front-end
 ## Contact
 
 - [Github](https://github.com/baitun)
-- [StackOverflow](https://stackoverflow.com/story/baitun)
+- [StackOverflow](https://stackoverflow.com/users/5700024/baitun)
 - [LinkedIn](https://linkedin.com/in/savinyurii)
 
 ## Work Experience
