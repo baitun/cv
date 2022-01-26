@@ -1,3 +1,13 @@
+.links {
+    min-width: 200px;
+    margin: auto;
+}
+
 .links-link {
     display: block;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    text-decoration: none;
 }
